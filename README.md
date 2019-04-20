@@ -12,3 +12,4 @@ to run this repository, you need to install the following package:
 
 
 the result is as follows:
+![image](https://github.com/nuomizai/DQN/tree/master/result/2.gif)
