@@ -13,4 +13,3 @@ to run this repository, you need to install the following package:
 
 the result is as follows:
 <img src="https://github.com/nuomizai/DQN/blob/master/result/2.gif" alt="show" />
-![image](https://github.com/nuomizai/DQN/blob/master/result/2.gif)
