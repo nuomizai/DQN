@@ -1,15 +1,13 @@
 # DQN
 a implement of Deep Q Network to train CartPole
 
-to run this repository, you need to install the following package:
+Run this repository with the following command
 
-- pip install visdom
-- pip install gym
-- pip install numpy
-- conda install pytorch torchvision cudatoolkit=10.0 -c pytorch
-( pytorch for cuda 10.0 and python3.7 )
-
+```angular2html
+python main.py --render=False
+```
+set `render=True` if you want to see the rendering environment. The training result is saved under `result/`
 
 
-the result is as follows:
+Evaluation result is as follows:
 <img src="https://github.com/nuomizai/DQN/blob/master/result/2.gif" alt="show" />
