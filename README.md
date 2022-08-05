@@ -1,5 +1,5 @@
 # DQN
-a implement of Deep Q Network to train CartPole
+An implement of Deep Q Network to train CartPole
 
 Run this repository with the following command
 
